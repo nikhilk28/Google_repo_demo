@@ -3,7 +3,7 @@
 
 <remote fetch="https://github.com/nikhilk28/" name="Game" />
 
-    <project name="graphic_demo.git" path="Game_demo/Graphic" remote="Game" revision ="2f084ecfe8cb813e68bdd71b465251a2fbbde313" />
-    <project name="Audio_demo.git" path="Game_demo/Audio" remote="Game" revision ="7154a383258ed8e16374282d38bfac6661af8998" />
+    <project name="graphic_demo.git" path="Game_demo/Graphic" remote="Game" revision="2f084ecfe8cb813e68bdd71b465251a2fbbde313" />
+    <project name="Audio_demo.git" path="Game_demo/Audio" remote="Game" revision="7154a383258ed8e16374282d38bfac6661af8998" />
 
 </manifest>
