@@ -1,0 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+
+ <remote fetch="https://github.com/nikhilk28/" name="Game" />
+
+     <project name="graphic_demo.git" path="Game_demo/Graphic" remote="Game"  />
+     <project name="Audio_demo.git" path="Game_demo/Audio" remote="Game"  />
+
+ </manifest>
